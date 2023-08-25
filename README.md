@@ -17,3 +17,5 @@ the 42 network projects and exercises you see below are done with peer-to-peer l
 ***languages and tecknologies:***
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,bash)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafess00)](https://github.com/ashrafess00/github-readme-stats)
