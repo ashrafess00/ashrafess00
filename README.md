@@ -1,3 +1,4 @@
+
 My name is **Ashraf Essaoudi**, 
 solving problems and find new challenges to deal with, learning new things and self-education are my passion that's why i found myself into coding, since i was young
 🏪 therefore i am currently student at [1337](https://1337.ma/en) school, the IT school which gave me oppurtunity to code , learning new things with peer-to-peer learning
@@ -18,4 +19,5 @@ the 42 network projects and exercises you see below are done with peer-to-peer l
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,bash)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafess00)](https://github.com/ashrafess00/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafess00)](https://github.com/ashrafess00/github-readme-stats)
